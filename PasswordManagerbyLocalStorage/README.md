@@ -20,7 +20,7 @@ A simple password manager built with React that allows users to save, view, copy
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/password-manager.git
+    git clone https://github.com/sujal-pant/password-manager.git
     ```
 2. Navigate to the project directory:
     ```bash
