@@ -1,0 +1,15 @@
+<svg width="430" height="430" viewBox="0 0 430 430" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M240 85H190M215 110V60" stroke="#08A88A" stroke-width="12" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M135 30C123.954 30 115 38.9543 115 50V120C115 131.046 123.954 140 135 140H191.667L215 175L238.333 140H295C306.046 140 315 131.046 315 120V50C315 38.9543 306.046 30 295 30H135Z" stroke="#08A88A" stroke-width="12" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<mask id="mask0_2035_4566" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="35" y="195" width="365" height="215">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M400 195H35V410H400V195ZM260 250C260 274.853 239.853 295 215 295C190.147 295 170 274.853 170 250C170 225.147 190.147 205 215 205C239.853 205 260 225.147 260 250ZM180 320C149.624 320 125 344.624 125 375V400H305V375C305 344.624 280.376 320 250 320H180Z" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_2035_4566)">
+<path d="M115 295C131.569 295 145 281.569 145 265C145 248.431 131.569 235 115 235C98.4315 235 85 248.431 85 265C85 281.569 98.4315 295 115 295Z" stroke="#121331" stroke-width="12" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M50 365C50 340.147 70.1472 320 95 320H135C159.853 320 180 340.147 180 365V380H50V365Z" stroke="#121331" stroke-width="12" stroke-linejoin="round"/>
+<path d="M315 295C331.569 295 345 281.569 345 265C345 248.431 331.569 235 315 235C298.431 235 285 248.431 285 265C285 281.569 298.431 295 315 295Z" stroke="#121331" stroke-width="12" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M250 365C250 340.147 270.147 320 295 320H335C359.853 320 380 340.147 380 365V380H250V365Z" stroke="#121331" stroke-width="12" stroke-linejoin="round"/>
+</g>
+<path d="M215 295C239.853 295 260 274.853 260 250C260 225.147 239.853 205 215 205C190.147 205 170 225.147 170 250C170 274.853 190.147 295 215 295Z" stroke="#121331" stroke-width="12" stroke-miterlimit="10" stroke-linecap="round" stroke-linejoin="round"/>
+<path d="M125 375C125 344.624 149.624 320 180 320H250C280.376 320 305 344.624 305 375V400H125V375Z" stroke="#121331" stroke-width="12" stroke-linejoin="round"/>
+</svg>
